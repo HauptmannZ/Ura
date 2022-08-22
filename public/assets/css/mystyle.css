@@ -1,0 +1,19 @@
+.bgmy-gray {
+    background: linear-gradient(#abbaab);
+    margin-top: 100px;
+    margin-bottom: 100px;
+}
+
+.vertical-line {
+    /*mengatur display pembungkus tag hr*/
+    display: flex;
+}
+
+.hr {
+    /*mengatur tinggi minimal garis*/
+    min-height: 100%;
+    /*mengatur tinggi maksimal garis*/
+    max-height: 100vh;
+    /*mengatur margin garis*/
+    margin: 0;
+}
